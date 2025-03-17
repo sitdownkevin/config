@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,gpt.claude.ai
+  - DOMAIN-SUFFIX,appstorrent.ru
