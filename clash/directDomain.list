@@ -1,21 +1,22 @@
-DOMAIN-SUFFIX,tongji.edu.cn
-DOMAIN-SUFFIX,ustc.edu.cn
+DOMAIN-SUFFIX,kevinxu.site
+# Academic
+DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.zendesk.com
 DOMAIN-SUFFIX,easyscholar.cc
-DOMAIN-SUFFIX,kevinxu.site
+# Tools in China
 DOMAIN-SUFFIX,js.design
 DOMAIN-SUFFIX,matongxue.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,npmmirror.com
+# Remote Desktop
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
-DOMAIN-SUFFIX,gmgn.ai
-DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,heywhale.com
 DOMAIN-SUFFIX,codehub.cn
 DOMAIN-SUFFIX,mechrevo.com
