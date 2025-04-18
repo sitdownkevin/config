@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,kevinxu.site
+# Grammarly
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
 # Academic
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,webofscience.com
