@@ -1,13 +1,16 @@
-DOMAIN-SUFFIX,kevinxu.site
+DOMAIN-SUFFIX,kexu.win
+
 # Grammarly
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grammarly.io
+
 # Academic
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webofscience.zendesk.com
 DOMAIN-SUFFIX,easyscholar.cc
+
 # Tools in China
 DOMAIN-SUFFIX,js.design
 DOMAIN-SUFFIX,matongxue.com
@@ -16,8 +19,10 @@ DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,npmmirror.com
+
 # Credamo
 DOMAIN-SUFFIX,credamo.com
+
 # Remote Desktop
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,oray.com
@@ -29,7 +34,33 @@ DOMAIN-SUFFIX,fittentech.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,woozooo.com
+PROCESS-NAME,AnyDesk,DIRECT
+
 # AutoDL
 DOMAIN-SUFFIX,gpuhub.com
 DOMAIN-SUFFIX,autodl.com
 DOMAIN-SUFFIX,seetacloud.com
+
+# Trae CN
+DOMAIN-SUFFIX,ctobsnssdk.com
+PROCESS-NAME,Trae CN Helper
+PROCESS-NAME,ckg_server
+PROCESS-NAME,Trae CN Helper (Plugin)
+PROCESS-NAME,ai-agent
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,trae-api-sg.mchost.guru
+DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
+DOMAIN-SUFFIX,bytegate-sg.byteintlapi.com
+DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
+DOMAIN-SUFFIX,tron-sg.bytelemon.com
+DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,tron.jiyunhudong.com
+DOMAIN-SUFFIX,starling.zijieapi.com
+
+# Lark
+PROCESS-NAME,Lark Helper
+
+# Apple
+DOMAIN-SUFFIX,apple.com
